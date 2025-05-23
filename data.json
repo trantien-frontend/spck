@@ -1,0 +1,80 @@
+{
+    "trending-movies": [
+        {
+            "id": 1,
+            "name": "A Minecraft Movie",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+            "category" : "trending-movies"
+            
+        },
+         {
+            "id": 2,
+            "name": "Final Destination Bloodlines",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+            "category" : "trending-movies"
+        },
+         {
+            "id": 3,
+            "name": "Snow White",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+            "category" : "trending-movies"
+        },
+         {
+            "id": 4,
+            "name": "Warfare",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
+             "category" : "trending-movies"
+        },
+         {
+            "id": 5,
+            "name": "A Working Man",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+             "category" : "trending-movies"
+        },
+         {
+            "id": 6,
+            "name": "Tin Soldier",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg",
+             "category" : "trending-movies"
+        }
+
+    ],
+    "popular-movies": [
+         {
+            "id": 1,
+            "name": "Tin Soldier",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg",
+             "category" : "popular"
+        },
+         {
+            "id": 2,
+            "name": "The Great Escape",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg",
+            "category" : "popular"
+        },
+         {
+            "id": 3,
+            "name": "Bambi: A Life in the Woods",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg",
+            "category" : "popular"
+        },
+         {
+            "id": 4,
+            "name": "Thunderbolts*",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg",
+            "category" : "popular"
+        },
+         {
+            "id": 5,
+            "name": "Last Bullet",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg",
+            "category" : "popular"
+        },
+         {
+            "id": 6,
+            "name": "Brave Citizen",
+            "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg",
+            "category" : "popular"
+        }
+    ]
+}
